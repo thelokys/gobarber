@@ -8,7 +8,7 @@
  
 <h4/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Bootamp%20-GoBarber-orange" alt="Master class Nodejs"/>
+  <img src="https://img.shields.io/badge/BootCamp%20-GoBarber-orange" alt="Master class Nodejs"/>
 <p/>
 
 
