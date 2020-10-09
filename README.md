@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/logo.png" alt="MyLinks" height="100" width="200"/>
+    <img src=".github/logo.PNG" alt="MyLinks" height="100" width="200"/>
 </h1>
 
 <h4 align="center">
@@ -40,7 +40,7 @@ Entre da pasta do projeto`cd gobarber/`
 <p/>
 
 <p align="center">
-  <img align="center" src=".github/login.png" height="400px" width="500" />
+  <img align="center" src=".github/login.PNG" height="400px" width="500" />
 </p>
 
 <br/>
@@ -48,5 +48,5 @@ Entre da pasta do projeto`cd gobarber/`
   <strong>Tela de Cadastro</strong>
 <p/>
 <p align="center">
-  <img align="center" src=".github/cadastrar.png" height="400px" width="500" />
+  <img align="center" src=".github/cadastrar.PNG" height="400px" width="500" />
 </p>
